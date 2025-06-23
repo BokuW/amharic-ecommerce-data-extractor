@@ -6,3 +6,5 @@ __pycache__/
 *.ipynb_checkpoints/
 data/raw/
 data/processed/
+# telegram scrapper session
+*.session

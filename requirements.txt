@@ -1,0 +1,7 @@
+# requirements.txt
+pandas
+telethon
+python-dotenv
+Pillow
+numpy
+tqdm

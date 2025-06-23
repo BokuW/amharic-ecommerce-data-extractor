@@ -20,8 +20,7 @@ os.makedirs(PROCESSED_DATA_DIR, exist_ok=True)
 # Get these from my.telegram.org after logging in with your phone number.
 # NEVER commit them to GitHub!
 # They should be set in your .env file like:
-# TELEGRAM_API_ID=1234567
-# TELEGRAM_API_HASH=your_api_hash_string_here
+
 TELEGRAM_API_ID = os.getenv('TELEGRAM_API_ID')
 TELEGRAM_API_HASH = os.getenv('TELEGRAM_API_HASH')
 
